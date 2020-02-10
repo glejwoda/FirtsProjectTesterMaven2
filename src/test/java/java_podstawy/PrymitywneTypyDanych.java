@@ -1,3 +1,4 @@
+package java_podstawy;
 
 public class PrymitywneTypyDanych {
 

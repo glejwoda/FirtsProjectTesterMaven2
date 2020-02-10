@@ -1,3 +1,5 @@
+package java_podstawy;
+
 public class Student {
 
     public String imie;

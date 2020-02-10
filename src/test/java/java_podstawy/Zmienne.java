@@ -1,3 +1,5 @@
+package java_podstawy;
+
 public class Zmienne {
 
     /*kontenerki w pamięci które przechowuyją jakąś wartość- zdeklarowane  nie zainicjalizowane */

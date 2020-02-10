@@ -1,3 +1,5 @@
+package java_podstawy;
+
 import org.testng.annotations.Test;
 
 public class Constructor {
