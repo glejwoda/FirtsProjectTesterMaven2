@@ -1,6 +1,6 @@
-package java_podstawy;
+package java_kurs.java_podstawy;
 
-import interfejs.Auto;
+import java_kurs.interfejs.Auto;
 
 public class PodstawoweAuto implements Auto {
 

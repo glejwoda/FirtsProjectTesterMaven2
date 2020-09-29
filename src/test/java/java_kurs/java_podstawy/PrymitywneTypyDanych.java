@@ -1,4 +1,4 @@
-package java_podstawy;
+package java_kurs.java_podstawy;
 
 public class PrymitywneTypyDanych {
 

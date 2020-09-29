@@ -1,4 +1,4 @@
-package java_podstawy;
+package java_kurs.java_podstawy;
 
 public class Student {
 
@@ -8,12 +8,12 @@ public class Student {
 
     public String grupa;
 
-    public void przedstawSie(){
-        System.out.println("Cześć ! Nazywam się " + imie + " " + nazwisko);
+    public Student() {
+        System.out.println("Cześć witaj w Constructorze ");
     }
 
-    public Student (){
-        System.out.println("Cześć ! Witaj w Constructorze !");
+    public void przedstawSie(){
+        System.out.println("Cześć ! Nazywam się " + imie + " " + nazwisko + " " +grupa);
     }
 
     public Student (String noweImie, String noweNazwisko, String nowaGrupa){

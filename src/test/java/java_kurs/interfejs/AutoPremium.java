@@ -1,4 +1,4 @@
-package interfejs;
+package java_kurs.interfejs;
 
 public class AutoPremium  implements Auto{
     @Override

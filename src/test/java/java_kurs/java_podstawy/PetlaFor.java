@@ -1,4 +1,4 @@
-package java_podstawy;
+package java_kurs.java_podstawy;
 
 import org.testng.annotations.Test;
 
@@ -24,7 +24,7 @@ public class PetlaFor {
         }
 
         for(int index = 0; index < studenci.size();  index = index +1){
-            System.out.println("java_podstawy.Student numer " + index + " to " + studenci.get(index));
+            System.out.println("java_kurs.java_podstawy.Student numer " + index + " to " + studenci.get(index));
         }
 
     }
